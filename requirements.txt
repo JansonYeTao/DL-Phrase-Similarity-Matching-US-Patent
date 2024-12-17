@@ -1,0 +1,8 @@
+fastai
+kaggle
+datasets
+ipykernel
+transformers
+protobuf
+tiktoken
+sentencepiece
