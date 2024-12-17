@@ -2,7 +2,8 @@ fastai
 kaggle
 datasets
 ipykernel
-transformers
+transformers[torch]
 protobuf
 tiktoken
 sentencepiece
+wandb
